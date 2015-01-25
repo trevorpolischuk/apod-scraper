@@ -4,5 +4,5 @@ This can be useful for setting up dynamic backgrounds for computers or televisio
 
 
 
-To use, download the repository, use Bundler to install any dependencies, and run the script using
+To use, download the repository using `git clone https://github.com/trevorpolischuk/apod-scraper.git`, then use Bundler to install any dependencies, and run the script using
 the command `ruby apod-scraper.rb`.
